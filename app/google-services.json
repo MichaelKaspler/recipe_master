@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "877647175982",
+    "firebase_url": "https://recipe-misha-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "recipe-misha",
+    "storage_bucket": "recipe-misha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877647175982:android:e90ba3a98accd9dc36dabf",
+        "android_client_info": {
+          "package_name": "com.example.recipe_misha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39gvdwzQh1FOx2Qj5bFFvZDe8aLqZbeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

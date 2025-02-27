@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_red">#8B0000</color>
+    <color name="dark_red_light">#A52A2A</color>
+    <color name="dark_red_dark">#660000</color>
+    <color name="dark_red_text">#FFEEEEEE</color>
+    <color name="dark_red_card">#B3300000</color>
+    
+    <!-- New Yellow-Orange Theme Colors -->
+    <color name="sunny_yellow">#FFD700</color>
+    <color name="golden_yellow">#FFC107</color>
+    <color name="light_orange">#FFA000</color>
+    <color name="deep_orange">#FF6F00</color>
+    <color name="reddish_orange">#E64A19</color>
+    <color name="reddish_button">#D32F2F</color>
+    <color name="reddish_button_pressed">#B71C1C</color>
+    <color name="yellow_card">#FFFDE7</color>
+    <color name="yellow_dark_text">#5D4037</color>
+    <color name="yellow_light_text">#FFFDE7</color>
+</resources>
